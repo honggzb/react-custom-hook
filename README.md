@@ -1,4 +1,4 @@
-## setup
+## how to use
 
 1. `npm create vite@latest`
 2. `npm install`
